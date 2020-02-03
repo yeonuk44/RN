@@ -33,9 +33,9 @@ ios.buildNumber and android.versionCode distinguish different binaries of your a
 
 ## Third Step
 - There is a similar command in react-native like create-react-app.
-expo init 'projectName'
-cd 'projectname'
-expo start
+- expo init 'projectName'
+- cd 'projectname'
+- expo start
 
 after Choose a template
 ### 1. blank 
