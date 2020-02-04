@@ -1,6 +1,11 @@
 # RN
 React-Native practice &amp; environment
 
+## Requirement
+- NODE.JS
+- React Native
+- React Navigation
+
 ## First Step
 - expo cli install
 ### before install 'Node.js'
@@ -35,6 +40,7 @@ ios.buildNumber and android.versionCode distinguish different binaries of your a
 - There is a similar command in react-native like create-react-app.
 - expo init 'projectName'
 - cd 'projectname'
+- yarn add react-navigation
 - expo start
 
 after Choose a template
